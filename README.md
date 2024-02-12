@@ -1,4 +1,4 @@
-# Mogama Muneeb Davids 😀
+# Mogamat Muneeb Davids 😀
 
 [<img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />](https://github.com/Mogamat-Muneeb)
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&color=405DE6" />](https://www.instagram.com/mogmuneebdavids) 
