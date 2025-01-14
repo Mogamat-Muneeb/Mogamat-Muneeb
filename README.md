@@ -5,6 +5,6 @@
 
 Feel free to check out my [portfolio](https://muneebdavids.com) website!
 - 🏢 Software Engineer (Frontend, Backend, Whatever 😂)
-- 🧰 I build with: `React` `Vue js`, `JavaScript`, `Next.js`, `Node Js`,  `Typescript`, `Tailwind`, `Express`, `Shopify`, `Vercel`, `Supabase`, `React Native` anything fancy😁
+- 🧰 I build with: `React` `Vue js`, `JavaScript`, `Next.js`, `Node Js`,  `Typescript`, `Tailwind`, `Express`, `Shopify`, `Vercel`, `Supabase`, `React Native`, `anything 😁`
 - ⚡ I enjoy skating, coding obviously, and lifting weights :)
 - 📫 Reach out to me: davimuneeb785@gmail.com
